@@ -1,7 +1,7 @@
 # AI Usage - Week 4 (Stage 1)
 
 - **Tool used:** ChatGPT
-- **Note on the tool:** the lab handout names UC-approved tools such as Microsoft Copilot. I used Claude instead and am declaring that here.
+- **Note on the tool:** the lab handout names UC-approved tools such as Microsoft Copilot. I used ChatGPT instead and am declaring that here.
 
 
 ## What the AI did
